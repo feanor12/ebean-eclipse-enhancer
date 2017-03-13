@@ -22,4 +22,4 @@ Bundle-Vendor: %plugin.provider
 Bundle-Source: io.ebean.eclipse.enhancer.source
 Bundle-ClassPath: .,
  lib/ebean-agent-10.1.2.jar,
- lib/querybean-agent-10.1.2-SNAPSHOT.jar
+ lib/querybean-agent-10.1.3.jar
