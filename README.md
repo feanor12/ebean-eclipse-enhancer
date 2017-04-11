@@ -2,13 +2,15 @@ ebean-eclipse
 ======================
 
 Ebean ORM eclipse enhancement plugin.  This performs Ebean enhancement for both entity beans and "query beans" as part of Eclipse IDE compile.
-This fork use the new artifact name "io.ebean" instead of "com.avaje" 
 
 ### Update site
 
 http://ebean-orm.github.io/eclipse/update
 
 ### Notes
+
+This version do not support the old artiface name "com.avaje" 
+and should be use with the new ebean artifact "io.ebean" version > 10.x.x
 
 You can use this plugin in conjunction with other enhancement like the maven plugin.
 
