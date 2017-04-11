@@ -1,4 +1,4 @@
-ebean-eclipse
+ebean-eclipse-enhancer-for-ebean-10
 ======================
 
 Ebean ORM eclipse enhancement plugin.  This performs Ebean enhancement for both entity beans and "query beans" as part of Eclipse IDE compile.
