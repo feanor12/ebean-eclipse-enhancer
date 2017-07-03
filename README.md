@@ -1,4 +1,4 @@
-ebean-eclipse
+ebean-eclipse-enhancer-for-ebean-10
 ======================
 
 Ebean ORM eclipse enhancement plugin.  This performs Ebean enhancement for both entity beans and "query beans" as part of Eclipse IDE compile.
@@ -9,9 +9,12 @@ http://ebean-orm.github.io/eclipse/update
 
 ### Notes
 
+This version do not support the old artiface name "com.avaje" 
+and should be use with the new ebean artifact "io.ebean" version > 10.x.x
+
 You can use this plugin in conjunction with other enhancement like the maven plugin.
 
-Note that when using the 8.x.x java agent - you **must** use Ebean 8.x.x
+Note that when using the 10.x.x java agent - you **must** use Ebean 10.x.x
 
 For older plugins to use with Ebean 4.x to Ebean 7.x use the update site at: http://ebean-orm.github.io/eclipse/update-4.11.2 or get a build from https://github.com/ebean-orm/ebean-eclipse-enhancer/tree/master/builds 
 
